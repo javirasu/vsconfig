@@ -1,4 +1,5 @@
 {
+    "workbench.colorTheme": "Default Dark+",
     "editor.cursorBlinking": "smooth",
     "editor.cursorStyle": "underline",
     "git.confirmSync": false,
@@ -31,5 +32,6 @@
     // Controls if suggestions should be accepted 'Enter' - in addition to 'Tab'. Helps to avoid ambiguity between inserting new lines or accepting suggestions.
     "editor.acceptSuggestionOnEnter": "off",
     "editor.autoClosingQuotes": "never",
-    "editor.autoSurround": "never"
+    "editor.autoSurround": "never",
+    "workbench.editor.untitled.hint": "hidden"
 }
