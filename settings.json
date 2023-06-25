@@ -33,5 +33,6 @@
     "editor.acceptSuggestionOnEnter": "off",
     "editor.autoClosingQuotes": "never",
     "editor.autoSurround": "never",
-    "workbench.editor.untitled.hint": "hidden"
+    "workbench.editor.untitled.hint": "hidden",
+    "telemetry.telemetryLevel": "off"
 }
