@@ -34,5 +34,9 @@
     "editor.autoClosingQuotes": "never",
     "editor.autoSurround": "never",
     "workbench.editor.untitled.hint": "hidden",
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline"
+
 }
