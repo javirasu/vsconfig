@@ -22,7 +22,7 @@
     // Controls the delay in ms after which quick suggestions will show up
     "editor.quickSuggestionsDelay": 90,
     // Enables parameter hints
-    "editor.parameterHints": false,
+    "editor.parameterHints.enabled": false,
     // Controls if the editor should automatically close brackets after opening them
     "editor.autoClosingBrackets": "never",
     // Controls if the editor should automatically format the line after typing
